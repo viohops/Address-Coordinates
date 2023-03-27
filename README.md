@@ -12,7 +12,7 @@
 
     Команда: ```main.py```
 
-4. После запуска программа предложит нам ввести API-ключ (см. пункт 2) ![imgReadme/token.png](https://github.com/viohops/Address-oordinates/blob/main/ImgReadme/token.png?raw=true) и выбрать язык на котором будет возвращаться ответ с адресами
+4. После запуска программа предложит нам ввести API-ключ (см. пункт 2) ![imgReadme/token.png](https://github.com/viohops/Address-Coordinates/blob/main/ImgReadme/token.png?raw=true) и выбрать язык на котором будет возвращаться ответ с адресами
 ![imgReadme/language.png](https://github.com/viohops/Address-Coordinates/blob/main/ImgReadme/language.png?raw=true) 
 Введите цифру соответсвующую языку (1 = ru, 2 = en) и нажмите Enter   
 **Настройки сохраняются и в дальнейшем Вы не сможете их поменять**
